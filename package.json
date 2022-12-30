@@ -120,7 +120,7 @@
 		"jsdom-global": "3.0.2",
 		"less-loader": "^5.0.0",
 		"md5": "^2.3.0",
-		"mocha": "^8.1.1",
+		"mocha": "^8.4.0",
 		"mock-require": "^3.0.3",
 		"mongo-unit": "^2.0.1",
 		"postcss": "^7.0.32",
